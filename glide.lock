@@ -1,0 +1,16 @@
+hash: 76f1d02ed1388a5b6534913b645eb4866834acfe836db60406ca170bdae41193
+updated: 2017-07-03T15:03:11.266780856+02:00
+imports:
+- name: github.com/cpuguy83/go-md2man
+  version: a65d4d2de4d5f7c74868dfa9b202a3c8be315aaa
+  subpackages:
+  - md2man
+- name: github.com/inconshreveable/mousetrap
+  version: 76626ae9c91c4f2a10f34cad8ce83ea42c93bb75
+- name: github.com/mitchellh/go-homedir
+  version: b8bc1bf767474819792c23f32d8286a45736f1c6
+- name: github.com/spf13/cobra
+  version: 4d647c8944eb42504a714e57e97f244ed6344722
+- name: github.com/spf13/pflag
+  version: e57e3eeb33f795204c1ca35f56c44f83227c6e66
+testImports: []
